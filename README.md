@@ -1,1 +1,3 @@
-# bd-2025-ic
+* Crear una base de datos
+
+`CREATE DATABASE NombreBD`
